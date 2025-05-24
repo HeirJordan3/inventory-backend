@@ -1,4 +1,5 @@
-````markdown
+
+
 # 🛠️ Inventory Management Backend
 
 This is the **Spring Boot backend** for the Inventory Management System.
@@ -23,6 +24,7 @@ Each item includes a name, quantity, location, and locker combination.
 
 ### 1. Clone the repository
 ```bash
+
 git clone https://github.com/your-username/inventory-backend.git
 cd inventory-backend
 ````

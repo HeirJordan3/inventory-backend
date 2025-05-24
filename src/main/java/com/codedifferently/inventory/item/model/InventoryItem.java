@@ -14,10 +14,10 @@ import jakarta.persistence.Id;
 
 
 
-@Entity // JPA to save to the database
-@NoArgsConstructor // No-argument constructor
-@RequiredArgsConstructor // Constructor with required (non-null) fields
-@Data // Generates getters, setters, equals, hashCode, toString
+@Entity
+@NoArgsConstructor
+@RequiredArgsConstructor
+@Data
 public class InventoryItem {
 
    @Id
